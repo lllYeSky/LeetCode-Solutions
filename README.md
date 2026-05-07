@@ -10,10 +10,13 @@
 
 ## 📂 目录结构
 
-LeetCode-Solutions/
-├── README.md ← 你在这里
-├── array/ ← 数组相关题目
-│ └── 0001-two-sum.md
+- `array/` —— 数组相关题目
+  - `0001-two-sum.md`
+- `dynamic-programming/` —— 动态规划
+  - `0053-maximum-subarray.md`
+- 更多分类会随着刷题持续补充
+>
+每道题独立一篇 `.md` 文件，包含题目大意、思路、代码与复杂度分析。
 
 ## 🔠 题解索引
 
