@@ -25,10 +25,10 @@
 
 ## 🔠 题解索引
 
-| 类型     | 题目                                                         | 难度 | 题解                                            |
-| -------- | ------------------------------------------------------------ | ---- | ----------------------------------------------- |
-| 滑动窗口 | [1456.求解子串最大元音数量](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/solutions/2809359/tao-lu-jiao-ni-jie-jue-ding-chang-hua-ch-fzfo/) | 1263 | [题解](./滑动窗口/1456.求解子串最大元音数量.md) |
-| 滑动窗口 | [2841.几乎唯一子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/) | 1546 | [题解](./滑动窗口/2841.几乎唯一子数组的最大和)  |
-| 滑动窗口 | [1423.可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/description/) | 1574 | [题解](./滑动窗口/1423.可获得的最大点数)        |
+| 类型     | 题目                                                         | 难度 | 题解                                              |
+| -------- | ------------------------------------------------------------ | ---- | ------------------------------------------------- |
+| 滑动窗口 | [1456.求解子串最大元音数量](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/solutions/2809359/tao-lu-jiao-ni-jie-jue-ding-chang-hua-ch-fzfo/) | 1263 | [题解](./滑动窗口/1456.求解子串最大元音数量.md)   |
+| 滑动窗口 | [2841.几乎唯一子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/) | 1546 | [题解](./滑动窗口/2841.几乎唯一子数组的最大和.md) |
+| 滑动窗口 | [1423.可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/description/) | 1574 | [题解](./滑动窗口/1423.可获得的最大点数.md)       |
 
 ⭐️ 如果这个仓库对你有帮助，欢迎点个 Star 鼓励一下～
