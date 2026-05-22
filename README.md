@@ -2,7 +2,7 @@
 
 用自己的思路、代码与复杂度分析，记录我的算法刷题过程。🤗
 
-（大部分是跟着灵神走的）
+（大部分是跟着灵神走的）1
 
 这是他的[分享｜如何科学刷题？ - 讨论 - 力扣（LeetCode）](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/)
 
