@@ -25,13 +25,14 @@
 
 ## 🔠 题解索引
 
-| 类型         | 题目                                                         | 难度 | 题解                                                 |
-| ------------ | ------------------------------------------------------------ | ---- | ---------------------------------------------------- |
-| 定长滑动窗口 | [1456.求解子串最大元音数量](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/solutions/2809359/tao-lu-jiao-ni-jie-jue-ding-chang-hua-ch-fzfo/) | 4    | [题解](./滑动窗口/1456.求解子串最大元音数量.md)      |
-| 定长滑动窗口 | [2841.几乎唯一子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/) | 4    | [题解](./滑动窗口/2841.几乎唯一子数组的最大和.md)    |
-| 定长滑动窗口 | [1423.可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/description/) | 4    | [题解](./滑动窗口/1423.可获得的最大点数.md)          |
-| 定长滑动窗口 | [3679.使库存平衡的最少丢弃次数](https://leetcode.cn/problems/minimum-discards-to-balance-inventory/description/) | 4    | [题解](./滑动窗口/3679.使库存平衡的最少丢弃次数.md)  |
-| 定长滑动窗口 | [2156.查找给定哈希值的子串](https://leetcode.cn/problems/find-substring-with-given-hash-value/description/) | 6    | [题解](./滑动窗口/2156.查找给定哈希值的子串.md)      |
-| 定长滑动窗口 | [2200.找出数组中的所有 K 近邻下标](https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/description/) | 2    | [题解](./滑动窗口/2200.找出数组中的所有K近邻下标.md) |
+| 类型               | 题目                                                         | 难度 | 题解                                                         |
+| ------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| 定长滑动窗口       | [1456.求解子串最大元音数量](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/solutions/2809359/tao-lu-jiao-ni-jie-jue-ding-chang-hua-ch-fzfo/) | 4    | [题解](./滑动窗口/1456.求解子串最大元音数量.md)              |
+| 定长滑动窗口       | [2841.几乎唯一子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/) | 4    | [题解](./滑动窗口/2841.几乎唯一子数组的最大和.md)            |
+| 定长滑动窗口       | [1423.可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/description/) | 4    | [题解](./滑动窗口/1423.可获得的最大点数.md)                  |
+| 定长滑动窗口       | [3679.使库存平衡的最少丢弃次数](https://leetcode.cn/problems/minimum-discards-to-balance-inventory/description/) | 4    | [题解](./滑动窗口/3679.使库存平衡的最少丢弃次数.md)          |
+| 定长滑动窗口       | [2156.查找给定哈希值的子串](https://leetcode.cn/problems/find-substring-with-given-hash-value/description/) | 6    | [题解](./滑动窗口/2156.查找给定哈希值的子串.md)              |
+| 定长滑动窗口(思维) | [2200.找出数组中的所有 K 近邻下标](https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/description/) | 2    | [题解](./滑动窗口/2200.找出数组中的所有K近邻下标.md)         |
+| 定长滑动窗口(思维) | [1461.检查一个字符串是否包含所有长度为K的二进制子串](https://leetcode.cn/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | 5    | [题解](./滑动窗口/1461.检查一个字符串是否包含所有长度为K的二进制子串.md) |
 
 ⭐️ 如果这个仓库对你有帮助，欢迎点个 Star 鼓励一下～
