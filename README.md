@@ -34,5 +34,6 @@
 | 定长滑动窗口       | [2156.查找给定哈希值的子串](https://leetcode.cn/problems/find-substring-with-given-hash-value/description/) | 6    | [题解](./滑动窗口/2156.查找给定哈希值的子串.md)              |
 | 定长滑动窗口(思维) | [2200.找出数组中的所有 K 近邻下标](https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/description/) | 2    | [题解](./滑动窗口/2200.找出数组中的所有K近邻下标.md)         |
 | 定长滑动窗口(思维) | [1461.检查一个字符串是否包含所有长度为K的二进制子串](https://leetcode.cn/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | 5    | [题解](./滑动窗口/1461.检查一个字符串是否包含所有长度为K的二进制子串.md) |
+| 定长滑动窗口(思维) | [1016.子串能表示从1到N数字的二进制串](https://leetcode.cn/problems/binary-string-with-substrings-representing-1-to-n/description/) | 3    | [题解](./滑动窗口/1016.子串能表示从1到N数字的二进制串.md)    |
 
 ⭐️ 如果这个仓库对你有帮助，欢迎点个 Star 鼓励一下～
