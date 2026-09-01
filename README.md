@@ -13,12 +13,11 @@
 
 ## 📂 目录结构
 
-此处就列出**整体结构**以及**模板**，详细题目见**1.3**
+此处就列出**整体结构**，详细题目见**1.3**
 
 - 滑动窗口
   - 定长滑动窗口
-      - 感觉不是很需要模板🫠
-      - ...
+  - 不定长滑动窗口
 - 更多分类会随着刷题持续补充😊
 >
 每道题独立一篇 `.md` 文件，包含题目大意、思路、代码与复杂度分析。
@@ -35,5 +34,6 @@
 | 定长滑动窗口(思维) | [2200.找出数组中的所有 K 近邻下标](https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/description/) | 2    | [题解](./滑动窗口/2200.找出数组中的所有K近邻下标.md)         |
 | 定长滑动窗口(思维) | [1461.检查一个字符串是否包含所有长度为K的二进制子串](https://leetcode.cn/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | 5    | [题解](./滑动窗口/1461.检查一个字符串是否包含所有长度为K的二进制子串.md) |
 | 定长滑动窗口(思维) | [1016.子串能表示从1到N数字的二进制串](https://leetcode.cn/problems/binary-string-with-substrings-representing-1-to-n/description/) | 3    | [题解](./滑动窗口/1016.子串能表示从1到N数字的二进制串.md)    |
+| 不定长滑动窗口     | [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/) | 5    | [题解](./滑动窗口/3. 无重复字符的最长子串.md)                |
 
 ⭐️ 如果这个仓库对你有帮助，欢迎点个 Star 鼓励一下～
