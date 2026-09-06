@@ -37,5 +37,6 @@
 | 不定长滑动窗口       | [3.无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/) | 5    | [题解](./滑动窗口/3.无重复字符的最长子串.md)                 |
 | 不定长滑动窗口       | [1208.尽可能使字符串相等](https://leetcode.cn/problems/get-equal-substrings-within-budget/description/) | 5    | [题解](./滑动窗口/1208.尽可能使字符串相等.md)                |
 | 不定长滑动窗口(进阶) | [2831.找出最长等值子数组](https://leetcode.cn/problems/find-the-longest-equal-subarray/description/) | 6    | [题解](./滑动窗口/2831.找出最长等值子数组.md)                |
+| 不定长滑动窗口(进阶) | [2009.使数组连续的最少操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-continuous/description/) | 7    | [题解](./滑动窗口/2009.使数组连续的最少操作数.md)            |
 
 ⭐️ 如果这个仓库对你有帮助，欢迎点个 Star 鼓励一下～
