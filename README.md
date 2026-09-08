@@ -18,7 +18,7 @@
 - 滑动窗口 -> [总结](./总结&板子/滑动窗口总结.md)
   - 定长滑动窗口
   - 不定长滑动窗口
-- 二分算法 -> [总结](./总结&板子/二分算法总结)
+- 二分算法 -> [总结](./总结&板子/二分算法总结.md)
 - 更多分类会随着刷题持续补充😊
 >
 每道题独立一篇 `.md` 文件，包含题目大意、思路、代码与复杂度分析。
@@ -40,5 +40,6 @@
 | 不定长滑动窗口(进阶) | [2831.找出最长等值子数组](https://leetcode.cn/problems/find-the-longest-equal-subarray/description/) | 6    | [题解](./滑动窗口/2831.找出最长等值子数组.md)                |
 | 不定长滑动窗口(进阶) | [2009.使数组连续的最少操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-continuous/description/) | 7    | [题解](./滑动窗口/2009.使数组连续的最少操作数.md)            |
 | 二分查找             | [34.在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | 4    | [题解](./二分算法/34.在排序数组中查找元素的第一个和最后一个位置.md) |
+| 二分查找             | [3488.距离最小相等元素查询](https://leetcode.cn/problems/closest-equal-element-queries/description/) | 4    | [题解](./二分算法/3488.距离最小相等元素查询.md)              |
 
 ⭐️ 如果这个仓库对你有帮助，欢迎点个 Star 鼓励一下～
